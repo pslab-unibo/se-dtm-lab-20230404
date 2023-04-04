@@ -1,3 +1,5 @@
+/* Examples of Value objects as defined in DDD, using classes */
+
 class Vector2d {
     x; y;
     constructor(x,y){

@@ -1,5 +1,7 @@
+/* An example of Entity object as defined in DDD, using classes */
 
 /* definition of the User class */
+
 class User {
   name;
   password;

@@ -1,3 +1,5 @@
+/* examples of objects, without using classes */
+
 let user0 = {
     name: "bob",
     password: "pwd555",
